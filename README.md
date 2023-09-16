@@ -1,11 +1,4 @@
 <html>
-    <head>
-        <style>
-            img{
-                display: inline;
-            }
-        </style>
-    </head>
     <body>
         <h1 style="font-size: 68px;" align="center">Hello there 👋</h1>
         <div align="center">

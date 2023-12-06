@@ -14,7 +14,6 @@
             <li>🧱 LEGOs - building sets and managing a small online LEGO store.</li>
             <li>🎮 Gaming - a fun activity when I have some free time. My favourite kind is probably survival ones with big research trees.</li>
         </ul>
-        <h5 style="font-size: 30px;" align="center">🚗 I'm also in the process of acquiring my driver's licence at the moment. 🚗</h5>
         <hr>
         <h3>Technologies and languages that I use and learn:</h3>
         <!--badges from https://github.com/Ileriayo/markdown-badges-->

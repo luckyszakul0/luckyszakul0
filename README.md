@@ -2,7 +2,7 @@
     <body>
         <h1 style="font-size: 68px;" align="center">Hello there 👋</h1>
         <div align="center">
-        <a href="https://www.frontendmentor.io/profile/Lukasz710" style="margin-right: 20px"><img alt="static badge" src="https://img.shields.io/badge/FrontendMentor-white?logo=frontendmentor&logoColor=3F54A3&style=for-the-badge"></a>
+        <a href="https://www.frontendmentor.io/profile/luckyszakul0" style="margin-right: 20px"><img alt="static badge" src="https://img.shields.io/badge/FrontendMentor-white?logo=frontendmentor&logoColor=3F54A3&style=for-the-badge"></a>
         <a href="https://steamcommunity.com/profiles/76561198138544072/"><img alt="static badge" src="https://img.shields.io/badge/Steam-black?logo=steam&logoColor=white&style=for-the-badge"></a>
         </div>
         <p style="font-size: 26px;" align="center">🖥 My name is Łukasz Lubaszewski and I'm an 18 year old beginner in web development from Poland! 🖥</p>
